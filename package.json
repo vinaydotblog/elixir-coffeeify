@@ -1,0 +1,28 @@
+{
+  "name": "elixir-coffeeify",
+  "version": "1.0.0",
+  "description": "An extension for laravel elixir to use browserify with coffee files",
+  "main": "coffeeify.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vinnizworld/elixir-coffeeify.git"
+  },
+  "keywords": [
+    "laravel",
+    "elixir",
+    "browserify",
+    "coffeeify",
+    "coffeescript",
+    "plugin",
+    "extension"
+  ],
+  "author": "Vinay Aggarwal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vinnizworld/elixir-coffeeify/issues"
+  },
+  "homepage": "https://github.com/vinnizworld/elixir-coffeeify#readme"
+}
