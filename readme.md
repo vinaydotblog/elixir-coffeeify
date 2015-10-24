@@ -2,6 +2,8 @@
 
 [![Join the chat at https://gitter.im/vinnizworld/elixir-coffeeify](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/vinnizworld/elixir-coffeeify?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
+[![Join the chat at https://gitter.im/vinnizworld/elixir-coffeeify](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/vinnizworld/elixir-coffeeify?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 An extension for laravel elixir to use browserify with coffee files
 
 ## Installation
