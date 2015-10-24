@@ -4,6 +4,13 @@
 
 An extension for laravel elixir to use browserify with coffee files
 
+## Installation
+
+Use [npm](https://www.npmjs.com/package/elixir-coffeeify) to install this package
+```
+npm install elixir-coffeeify --save
+```
+
 ## Usage
 
 ### `gulp`
