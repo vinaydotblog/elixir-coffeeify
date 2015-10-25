@@ -4,6 +4,7 @@ var browserify 	= require('browserify');
 var gulp 		= require('gulp');
 var source     	= require('vinyl-source-stream');
 var path 		= require('path');
+var coffeeify	= require('coffeeify');
 
 /*
  * This task run the given coffee files through browserify 
@@ -26,7 +27,7 @@ Elixir.extend('coffeeify', function(src, output, options){
 				return browserify(file, {
 					extensions : ['.coffee']
 				})
-				.transform('coffeeify')
+				.transform(coffeeify)
 				.bundle()
 				.on('error', function(e) {
 					new Elixir.Notification().error(e, 'CoffeeScript Compilation Failed!');
